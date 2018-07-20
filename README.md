@@ -30,7 +30,7 @@ Note that the input & output parameters should keep the corret form as described
 
 Yingyi Liu et al. A reliable open-source package for performance evaluation of floating renewable energy systems in coastal and offshore regions. Energy Conversion and management, 2018.
 
-Please cite the above paper in your relevant publications if the FINGREEN3D code or its executable has contributed to your work.
+Please cite the above paper in your relevant publications if the FINGREEN3D code or its executable (dynamic link library) has contributed to your work.
 
 NO WARRANTY is given to FINGREEN3D.
 
