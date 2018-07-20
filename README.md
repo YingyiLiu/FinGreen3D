@@ -1,8 +1,7 @@
 
                                                         FINGREEN3D
 
-FINGREEN3D is a computational package to be used as the core part of the free-surface potential flow theory under finite water depth. It is currently written in FORTRAN 90. The code is based on a state-of-the-art method developed in recent years by the authors. The main strategy of this method is to use different series expansions in appropriate sub-regions. Hence we can avoid calculating the Green's
-function by direct time-consuming integrations. 
+FINGREEN3D is an open-source package for computation of the free-surface Green's function under a finite water depth, which is the core-part of the boundary integral equations in the potential flow theory for analysis of wave-structure interactions. It is currently written in FORTRAN 90. The code is based on a state-of-the-art method developed in recent years by the authors. The main strategy of this method is to use a set of different series expansions in appropriate sub-regions. Therefore, we can avoid calculating the Green's function by direct time-consuming integrations. 
 
 FINGREEN3D is freely distributed under the LGPL License, Version 3.0, https://www.gnu.org/licenses/lgpl-3.0.html, and may be modified and 
 extended by researchers who intend to enhance its capabilities and port the code to other platforms.
