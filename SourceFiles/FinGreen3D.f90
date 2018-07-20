@@ -57,9 +57,8 @@
 !                           TAG=3, nothing excluded.
 ! 
 !       Output:    GRN(1)  --- value of Green's function
-!                  GRN(2)  --- derivative of Green's function with respect to x
-!                  GRN(3)  --- derivative of Green's function with respect to y
-!                  GRN(4)  --- derivative of Green's function with respect to z
+!                  GRN(2)  --- derivative of Green's function with respect to R
+!                  GRN(3)  --- derivative of Green's function with respect to z
 !
 !  Contributors list:
 !         Yingyi Liu
