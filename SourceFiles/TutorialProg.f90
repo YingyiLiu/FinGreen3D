@@ -15,7 +15,7 @@
 !
 !  Author:
 ! 
-!    Yingyi Liu on Mar.17, 2017
+!    Yingyi Liu on Jul.20, 2018
 ! 
 !  Reference:
 ! 
@@ -47,7 +47,7 @@
         WRITE ( *, '(2x,a)' ) '----------------------------------------------------------------------------------'
         WRITE ( *, '(2x,a)' ) '  Welcome to the use of the software package FinGreen3D.'
         WRITE ( *, '(2x,a)' ) '  This is a tutorial example for teaching you how to call it from a user program. '
-        WRITE (*,'(24x,30A,10x)') 'Author: Yingyi Liu, Kyushu University, May.17, 2017'
+        WRITE (*,'(24x,30A,10x)') 'Author: Yingyi Liu, Kyushu University, Jul.20, 2018'
         WRITE ( *, '(2x,a)' ) '----------------------------------------------------------------------------------'
 
         WRITE (2,'(1x,a6,5(2x,a18))') 'R/H','Re(G)_Newman','Im(G)_Newman','Re(G)_present','Im(G)_present','Relative Error'
