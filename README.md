@@ -12,7 +12,7 @@ It should be noted that, any modified version should also be licensed under the 
 
 - Unpacking the package
 
-Copy the FINGREEN3D.tar.gz file on a directory. Unpack the archive by giving the following commands in Linux: gunzip FINGREEN3D_Package.tar.gz and tar -xvf FINGREEN3D_Package.tar. Or you can use the 7-Zip open-source sofware to unpack it in Windows.
+Copy the FINGREEN3D.tar.gz file to a directory. Unpack the archive by giving the following commands in Linux: gunzip FINGREEN3D_Package.tar.gz and tar -xvf FINGREEN3D_Package.tar. Or you can use the open-source freeware 7-Zip to unpack it in Windows.
 
 - Compiling the package and building the executables
 
