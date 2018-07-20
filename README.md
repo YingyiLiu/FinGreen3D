@@ -22,9 +22,7 @@ For instruction purpose, there exist two examples under the unpacked subfolder '
 
 - Using the library in other applications
 
-There are two ways of using the library. You can either incorporate it into a potential flow solver in the frequency domain, or use it 
-separately to compute values of free-surface Green's function under prescribed conditions. Now matter what you do, the calling style 
-is the same and also extremely simple, just by typing:
+There are two ways of using FINGREEN3D. You can either link it as an external dynamic link library with your frequency-domain potential flow solver, or simply use it to compute values of free-surface Green's function under some prescribed conditions. No matter what you do, the calling style is the same and also extremely simple, just by typing:
 
 CALL FINGREEN3D(R,ZF,ZP,V,WVN,NK,H,GRN,TAG)
 
