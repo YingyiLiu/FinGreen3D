@@ -1,19 +1,17 @@
 ! ==================================================================================
 !   Purpose: This program gives instructions on how to use FinGreen3D.
 !
-!  Licensing:
+!  License:
 ! 
-!    This routine is copyrighted by Yingyi Liu. However, he gives permission to 
-!    incorporate it with a user program provided that the copyright is acknowledged.
-!    This code is distributed under the Apache License, Version 2.0.
+!    This routine is part of FinGreen3D.
 !
-!     http://www.apache.org/licenses/LICENSE-2.0
+!    FinGreen3D is a free software package: you can redistribute it and/or modify it
+!    under the terms of the GNU Lesser General Public License as published by the
+!    Free Software Foundation, either version 3 of the License, or (at your option) 
+!    any later version.
 !
-!    Unless required by applicable law or agreed to in writing, software
-!    distributed under the License is distributed on an "AS IS" BASIS,
-!    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-!    See the License for the specific language governing permissions and
-!    limitations under the License.
+!    You should have received a copy of the GNU General Public License (either V3  
+!    or later), along with FinGreen3D. If not, see <http://www.gnu.org/licenses/>.
 !
 !  Author:
 ! 
@@ -21,11 +19,9 @@
 ! 
 !  Reference:
 ! 
-!    Yingyi Liu, Shigeo Yoshida, Liang Sun, Junliang Gao
-!    FinGreen3D: An efficient open-source package for computing free-surface 
-!    Green's function in finite water depth using new region-decomposition 
-!    strategy with applications to wave-structure interactions
-!    Computer Physics Communications, 2016
+!    Yingyi Liu et al. A reliable open-source package for performance evaluation of 
+!    floating renewable energy systems in coastal and offshore regions. Energy Conversion
+!    and management, 2018
 !
 ! ==================================================================================
 
@@ -129,19 +125,17 @@
 !   Purpose: This subroutine computes roots of the water-wave dispersion equation 
 !             in finite water depth, by using a higher-order iterative method
 !
-!  Licensing:
+!  License:
 ! 
-!    This routine is copyrighted by Yingyi Liu. However, he gives permission to 
-!    incorporate it with a user program provided that the copyright is acknowledged.
-!    This code is distributed under the Apache License, Version 2.0.
+!    This routine is part of FinGreen3D.
 !
-!     http://www.apache.org/licenses/LICENSE-2.0
+!    FinGreen3D is a free software package: you can redistribute it and/or modify it
+!    under the terms of the GNU Lesser General Public License as published by the
+!    Free Software Foundation, either version 3 of the License, or (at your option) 
+!    any later version.
 !
-!    Unless required by applicable law or agreed to in writing, software
-!    distributed under the License is distributed on an "AS IS" BASIS,
-!    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-!    See the License for the specific language governing permissions and
-!    limitations under the License.
+!    You should have received a copy of the GNU General Public License (either V3  
+!    or later), along with FinGreen3D. If not, see <http://www.gnu.org/licenses/>.
 !
 !  Author:
 ! 
@@ -149,11 +143,9 @@
 ! 
 !  Reference:
 ! 
-!    Yingyi Liu, Shigeo Yoshida, Liang Sun, Junliang Gao
-!    FinGreen3D: An efficient open-source package for computing free-surface 
-!    Green's function in finite water depth using new region-decomposition 
-!    strategy with applications to wave-structure interactions
-!    Computer Physics Communications, 2016
+!    Yingyi Liu et al. A reliable open-source package for performance evaluation of 
+!    floating renewable energy systems in coastal and offshore regions. Energy Conversion
+!    and management, 2018
 ! 
 !    J.N. Newman
 !    Numerical solutions of the water-wave dispersion relation
