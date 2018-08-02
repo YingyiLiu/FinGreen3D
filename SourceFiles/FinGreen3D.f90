@@ -218,8 +218,8 @@
          CALL JY01B(WK*R,J0,J1,Y0,Y1)
       
          GRN(1)=P0*(CI*J0-Y0)
-               GRN(2)=-WK*P0*(CI*J1-Y1)
-               GRN(3)=WK*DP0*(CI*J0-Y0)
+         GRN(2)=-WK*P0*(CI*J1-Y1)
+         GRN(3)=WK*DP0*(CI*J0-Y0)
 
 ! calculate the real part of the Green function
 ! the trunction terms number depends on the value of RHP
