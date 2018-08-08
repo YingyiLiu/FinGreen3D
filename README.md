@@ -6,7 +6,7 @@ FINGREEN3D is an open-source package for computation of the free-surface Green's
 FINGREEN3D is freely distributed under the LGPL License, Version 3.0, https://www.gnu.org/licenses/lgpl-3.0.html, and may be modified and 
 extended by researchers who intend to enhance its capabilities and port the code to other platforms.
 
-It should be noted that, any modified version should also be licensed under the LGPL License and be released open-publicly. The contributors can add their names in the "contributors list" before the modified subroutine(s).
+It should be noted that, any modified version should be licensed under the LGPL License and be released open-publicly as well. The contributors can add their names in the "contributors list" before the modified subroutine(s).
 
 - Unpacking the package
 
@@ -26,7 +26,7 @@ There are two ways of using FINGREEN3D. You can either link it as an external dy
 
 CALL FINGREEN3D(R,ZF,ZP,V,WVN,NK,H,GRN,TAG)
 
-Note that the input & output parameters should keep the corret form as described in the accompanying ECM paper:
+Note that the input & output parameters should keep the correct form as described in the accompanying ECM paper:
 
 Yingyi Liu et al. A reliable open-source package for performance evaluation of floating renewable energy systems in coastal and offshore regions. Energy Conversion and management, 2018.
 
