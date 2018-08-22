@@ -28,7 +28,7 @@ CALL FINGREEN3D(R,ZF,ZP,V,WVN,NK,H,GRN,TAG)
 
 Note that the input & output parameters should keep the correct form as described in the accompanying ECM paper:
 
-Yingyi Liu et al. A reliable open-source package for performance evaluation of floating renewable energy systems in coastal and offshore regions. Energy Conversion and management, 2018.
+Yingyi Liu, Shigeo Yoshida, Changhong Hu, Makoto Sueyoshi, Liang Sun, Junliang Gao, Peiwen Cong, Guanghua He. A reliable open-source package for performance evaluation of floating renewable energy systems in coastal and offshore regions. Energy Conversion and management, 174 (2018): 516-536.
 
 Please cite the above paper in your relevant publications if the FINGREEN3D code or its executable (dynamic link library) has contributed to your work.
 
