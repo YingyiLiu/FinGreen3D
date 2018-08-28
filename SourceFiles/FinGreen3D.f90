@@ -119,7 +119,7 @@
 ! Determine whether to exclude the singular terms or not
 ! this depends on the descritization scheme used in the numerical method
 ! choose TAG=2 or 3 if you use constant panel method 
-! choose TAG=1 if you use hgher-order boundary element method
+! choose TAG=1 if you use higher-order boundary element method
 !  
         IF (TAG.EQ.1) THEN
         CONTINUE
