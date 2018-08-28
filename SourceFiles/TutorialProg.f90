@@ -215,7 +215,7 @@
 
 !------------------------------------------------------------------
 ! II. calcultion of roots of Eq. (ii), which characterizes
-!     the evanescene modes in eigenfucntion
+!     the evanescene modes in eigenfunction
 !------------------------------------------------------------------
 !
 !   initialize iteration by a suitable starting approximation
