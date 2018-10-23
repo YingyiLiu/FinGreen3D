@@ -6,7 +6,7 @@ FINGREEN3D is an open-source package for computation of the free-surface Green's
 FINGREEN3D is freely distributed under the LGPL License, Version 3.0, https://www.gnu.org/licenses/lgpl-3.0.html, and may be modified and 
 extended by researchers who intend to enhance its capabilities and port the code to other platforms.
 
-It should be noted that, any modified version should be licensed under the LGPL License and be released open-publicly as well. The contributors can add their names in the "contributors list" before the modified subroutine(s).
+It should be noted that, any modified version should be licensed under the LGPL License and be released open-publicly as well. The contributors can add their names in the "contributors list" ahead of the modified subroutine(s).
 
 - Unpacking the package
 
